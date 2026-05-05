@@ -1,4 +1,4 @@
-# Something wearing 金剛力士
+# B00
 
 This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
 
